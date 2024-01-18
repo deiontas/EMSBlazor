@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJ8zwwwdwV1TVS/d/pxUYnc15W1Da51A7xHVc/zOXSqxrXVc5okAbUcjqEoz6R9amhpRHlryUnaV9j8tiV+wfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\helpd\\Desktop\\EmployeeManagementSystemSolution\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helpd\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\helpd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
